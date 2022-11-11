@@ -20,7 +20,7 @@
 ## Intermediate
 + Now that you have basic Python skills, consider installing a Python distribution like [Anaconda](https://www.anaconda.com/products/distribution), which includes lots of useful packages for data science and statistics.
 + You might also want to switch from your default editor to one specifically for writing code. Check out your options here: [Text Editors and IDEs](https://www.fullstackpython.com/text-editors-ides.html). 
-+ Also install Git - [Git - Downloads](https://git-scm.com/downloads). This will allow you to use GitHub.
++ Also install [Git](https://git-scm.com/downloads). This will allow you to use GitHub.
 + [Data Structures and Information Retrieval in Python](https://allendowney.github.io/DSIRP/): Free and open-source textbook.
 + [Think Stats](https://greenteapress.com/thinkstats2/html/index.html): Free and open-source textbook about running statistics analyses in Python. If you want to use Python in an academic setting, this is very useful. 
 + [Python Data Science Handbook | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html): Free and open-source textbook. This is the textbook I used in my Data Science class. I still refer back to this all the time. 
