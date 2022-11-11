@@ -7,7 +7,7 @@
 
 ## Beginners
 + [Think Python](https://greenteapress.com/thinkpython2/html/index.html): Free and open source textbook for beginners. I highly recommend going through the textbook in order and doing all the exercises.
-+ [3.10.4 Documentation](https://docs.python.org/3/): This is the Python docmentation. If you’re confused about any of base Python’s functions, come here first.
++ [Python Documentation](https://docs.python.org/3/): This is the Python docmentation. If you’re confused about any of base Python’s functions, come here first.
 + [W3 Schools](https://www.w3schools.com/python/default.asp): If you’re still confused after looking at the documentation, try W3.
 + [Getting Started - pip documentation v22.1.dev0](https://pip.pypa.io/en/latest/getting-started/): How to install Python packages using pip. 
 
